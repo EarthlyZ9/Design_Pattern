@@ -47,7 +47,7 @@
 * ~~Composite~~
 * ~~Decorator~~
 * ~~Facade~~
-* Flyweight
+* ~~Flyweight~~
 * Proxy
 
 ## 행위 패턴
