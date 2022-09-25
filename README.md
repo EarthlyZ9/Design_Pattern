@@ -67,4 +67,4 @@
 * ~~Template Method~~
 * ~~Visitor~~
 * Interpreter
-* Iterator
+* ~~Iterator~~
