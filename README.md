@@ -66,5 +66,5 @@
 * ~~Strategy~~
 * ~~Template Method~~
 * ~~Visitor~~
-* Interpreter
+* ~~Interpreter~~
 * ~~Iterator~~
